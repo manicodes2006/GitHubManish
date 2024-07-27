@@ -1,7 +1,10 @@
+![logo](https://github.com/manicodes2006/GitHubManish/blob/main/Blue%20Modern%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding width="400" scr"https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3xvHHYUJdDwrScZhxiLGLI&ust=1722182627923000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjU8LPMx4cDFQAAAAAdAAAAABAY">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manicodes2006&label=Profile%20views&color=0e75b6&style=flat" alt="manicodes2006" /> </p>
 
